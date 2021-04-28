@@ -5,5 +5,6 @@
 2. $store.state.state명 + $store.commit('mutations함수') + $store.dispatch('actions함수')
 3. ...mapState
 4. computed:{}
+5. vue add pwa
 
 등을 사용해보았으나 능숙치 않습니다.
